@@ -1,28 +1,38 @@
-# MentorX AI/ML Bootcamp Event Page
+# MentorX AI/ML Bootcamp 🚀
 
-Welcome to the repository for the MentorX AI/ML Bootcamp event page. This document outlines the technologies used and the design principles followed to create an engaging and responsive event platform.
+Welcome to the official repository for the **MentorX AI/ML Bootcamp Event Page**!  
+This platform is crafted to deliver an immersive, responsive, and AI-powered experience for attendees, mentors, and enthusiasts of the AI/ML domain.
 
-## Tech Stack
+🌐 **[Visit the Live Site »](https://aiml-bootcamp.vercel.app)**
 
-- **Frontend Framework:** Next.js – Leveraged for its server-side rendering and static site generation capabilities, ensuring fast load times and SEO optimization.:contentReference[oaicite:2]{index=2}
-- **UI Components:** :contentReference[oaicite:4]{index=4}:contentReference[oaicite:6]{index=6}
-- **Styling:** :contentReference[oaicite:8]{index=8}:contentReference[oaicite:10]{index=10}
-- **Deployment Platform:** :contentReference[oaicite:12]{index=12}:contentReference[oaicite:14]{index=14}
-- **AI Integration:** :contentReference[oaicite:16]{index=16}:contentReference[oaicite:18]{index=18}
+---
 
-## Design Principles
+## 🔧 Tech Stack
 
-1. **User-Centric Interface:** :contentReference[oaicite:20]{index=20}:contentReference[oaicite:22]{index=22}
-2. **Responsive Design:** :contentReference[oaicite:24]{index=24}:contentReference[oaicite:26]{index=26}
-3. **Performance Optimization:** :contentReference[oaicite:28]{index=28}:contentReference[oaicite:30]{index=30}
-4. **Accessibility:** :contentReference[oaicite:32]{index=32}:contentReference[oaicite:34]{index=34}
-5. **Aesthetic Consistency:** :contentReference[oaicite:36]{index=36}:contentReference[oaicite:38]{index=38}
+- **Frontend Framework:** [Next.js](https://nextjs.org) – for blazing-fast performance using SSR and SSG.
+- **UI Components:** Built with component-driven design for modularity and scalability.
+- **Styling:** Tailwind CSS – utility-first approach for rapid and clean styling.
+- **Deployment:** Vercel – optimized for Next.js, enabling smooth CI/CD and global delivery.
+- **AI Integration:** OpenAI API and other ML APIs used for personalized interactions and dynamic event data.
 
-## Getting Started
+---
 
-To set up the project locally:
+## 🎨 Design Principles
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Sanjay-batthula/bootcamp.git
+1. **User-Centric Interface:** Built with intuitive navigation and seamless interactions.
+2. **Responsive Design:** Mobile-first, ensuring the experience is consistent across all screen sizes.
+3. **Performance Optimization:** Lazy loading, image optimization, and minimal bundle size.
+4. **Accessibility:** Follows WCAG guidelines for inclusive usage.
+5. **Aesthetic Consistency:** Brand-themed components with uniform spacing and typography.
 
+---
+
+## 🚀 Getting Started (For Developers)
+
+To run the project locally:
+
+```bash
+git clone https://github.com/Sanjay-batthula/bootcamp.git
+cd bootcamp
+npm install
+npm run dev
